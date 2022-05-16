@@ -7,11 +7,11 @@
       "request": "launch",
       "args": [],
       "stopAtEntry": true,
-      "cwd": "/Users/medreres/Documents/GitHub/Laboratory/term2/laboratory2",
+      "cwd": "/Users/medreres/Desktop/V1/task4",
       "environment": [],
-      "program": "/Users/medreres/Documents/GitHub/Laboratory/term2/laboratory2/build/Debug/outDebug",
+      "program": "/Users/medreres/Desktop/V1/task4/build/Debug/outDebug",
       "internalConsoleOptions": "openOnSessionStart",
-      "MIMode": "lldb",
+      "MIMode": "gdb",
       "console": "integratedTerminal"
     }
   ]

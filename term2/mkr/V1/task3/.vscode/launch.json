@@ -7,9 +7,9 @@
       "request": "launch",
       "args": [],
       "stopAtEntry": true,
-      "cwd": "/Users/medreres/Documents/GitHub/Laboratory/term2/laboratory2",
+      "cwd": "/Users/medreres/Desktop/university/121/Програмування/2 семестр/Верес/2 модуль /V1/task3",
       "environment": [],
-      "program": "/Users/medreres/Documents/GitHub/Laboratory/term2/laboratory2/build/Debug/outDebug",
+      "program": "/Users/medreres/Desktop/university/121/Програмування/2 семестр/Верес/2 модуль /V1/task3/build/Debug/outDebug",
       "internalConsoleOptions": "openOnSessionStart",
       "MIMode": "lldb",
       "console": "integratedTerminal"

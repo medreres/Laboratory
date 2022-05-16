@@ -23,8 +23,8 @@ int main()
     }
     print_matr(matr);
     print_graph(adj, V);
-    cout << '\n'
-         << det_matr(matr, V);
+    cout << '\n' << "Determinent of the matrix equals: "
+         << det_matr(matr, V) << "\n\n";
 
     // getting vertixes of graph
     vertix arr[V]; // empty array
@@ -34,9 +34,9 @@ int main()
     // sort_bubble(arr, V);
     // sort_insertion(arr, V);
     // sort_cocktail(arr, V);
-    //  sort_quick(arr, V);
+     sort_quick(arr, V);
     // sort_merge(arr, V);
-    sort_shell(arr, V);
+    // sort_shell(arr, V);
 
     cout << "\nSorted\n";
     print_vertex(arr, V);
